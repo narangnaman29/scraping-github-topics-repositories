@@ -9,3 +9,6 @@ Project Outline:
 * Repo Name, Username, Stars, Repo URL
 * three.js, mrdoob, 69700, https://github.com/mrdoob/three.js
 * libgdx, libgdx, 18300, https://github.com/libgdx/libgdx
+
+## For more details, Please refer to the notebook https://github.com/narangnaman29/scraping-github-topics-repositories/blob/main/_scraping-github-topics-repositories-final.ipynb
+
